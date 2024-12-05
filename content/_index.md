@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Lingju Meng (孟令驹)
+        TBD
       image:
         filename: welcome.jpg
       text: |
