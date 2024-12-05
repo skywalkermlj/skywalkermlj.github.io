@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Lingju Meng (孟令驹)
       image:
         filename: welcome.jpg
       text: |
