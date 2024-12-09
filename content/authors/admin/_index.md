@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist 科学家
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -51,7 +51,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
-教育经历 education:
+education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
     date_start: 2016-01-01
