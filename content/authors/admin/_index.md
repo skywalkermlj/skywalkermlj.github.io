@@ -51,7 +51,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
-education:
+教育 education:
   - area: Ph.D. in Solid State Eelctronics
     institution: University of Alberta
     date_start: 2013-09-01
