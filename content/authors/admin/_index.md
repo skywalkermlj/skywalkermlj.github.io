@@ -51,11 +51,11 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
-教育 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+education:
+  - area: Ph.D. in Solid State Eelctronics
+    institution: University of Alberta
+    date_start: 2013-09-01
+    date_end: 2020-06-12
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
