@@ -51,7 +51,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
-教育 education:
+教育经历 education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
     date_start: 2016-01-01
